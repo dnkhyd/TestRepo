@@ -1,0 +1,8 @@
+<?php
+
+	define ("PROJECT_NAME",'mykeralaprod/admin');
+	define("BASE_FOLDER",$_SERVER['DOCUMENT_ROOT'].'/'.PROJECT_NAME);
+	define('ROOT','mykeralahotels.in/'.PROJECT_NAME);
+	
+	
+?>

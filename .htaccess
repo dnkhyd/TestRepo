@@ -1,0 +1,10 @@
+Options +FollowSymLinks 
+RewriteEngine on 
+RewriteCond %{HTTP_HOST} ^mykeralahotels.in [NC] 
+RewriteRule ^(.*)$ http://www.mykeralahotels.in/$1 [L,R=301] 
+<IfModule mod_headers.c>
+<FilesMatch "\.(css|js|jpg|png|gif)$">
+Header set Cache-Control "max-age=1609416000, public"
+</FilesMatch>
+
+</IfModule>
