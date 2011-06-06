@@ -1,0 +1,4 @@
+Options +FollowSymlinks
+RewriteEngine on
+RewriteRule ^([^-]+)-([^-]+)-([^%]+) /fb/wallpapers/getImage.php?src=$3&w=$1&h=$2 [NC]
+RewriteRule (.*)\.html? $1.php

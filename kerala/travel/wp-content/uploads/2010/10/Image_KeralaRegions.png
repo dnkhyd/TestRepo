@@ -1,0 +1,341 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" dir="ltr">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+      		<link title="RDF Metadata" type="application/rdf+xml" href="/en/Special:Rdf/Image:KeralaRegions.png" rel="meta" />
+		<link rel="stylesheet" type="text/css" href="http://files.wikitravel.org/mw/skins/common/listing.css" />
+		<link rel="search" type="application/opensearchdescription+xml" title="Wikitravel (en)" href="http://wikitravel.org/en/Special:OpenSearch/description" />
+		<link rel="alternate" type="application/rss+xml" title="Wikitravel News" href="http://wikitravel.org/rss/english.rss" />
+		<link rel="shortcut icon" href="/favicon.ico" />
+		<link rel="copyright" href="http://creativecommons.org/licenses/by-sa/3.0/" />
+     
+      <title>Image:KeralaRegions.png - Wikitravel</title>
+      <style type="text/css" media="screen,projection">
+      /*<![CDATA[*/ 
+        @import "http://files.wikitravel.org/mw/skins/monobook/main.css?8.8"; 
+      /*]]>*/
+      </style>
+      <script type="text/javascript">
+        if((navigator.userAgent.match(/iPhone/i)) || (navigator.userAgent.match(/iPod/i))) {
+                var mobile_site = "http://m.wikitravel.org/";
+                var site_referrer = document.referrer;
+                site_referrer = site_referrer.toLowerCase();
+                if (site_referrer.match(mobile_site)) {
+                        var exdate=new Date();
+                        exdate.setDate(exdate.getDate()+2);
+                        document.cookie="mobile_redirect=false;expires="+exdate.toUTCString();
+                }
+                if (document.cookie.indexOf("mobile_redirect=false") == -1) { window.location = mobile_site; }
+        }
+      </script>
+      <link rel="stylesheet" type="text/css" media="print" href="http://files.wikitravel.org/mw/skins/common/commonPrint.css" />
+      <!--[if lt IE 5.5000]><style type="text/css">@import "http://files.wikitravel.org/mw/skins/monobook/IE50Fixes.css";</style><![endif]-->
+      <!--[if IE 5.5000]><style type="text/css">@import "http://files.wikitravel.org/mw/skins/monobook/IE55Fixes.css";</style><![endif]-->
+      <!--[if IE 6]><style type="text/css">@import "http://files.wikitravel.org/mw/skins/monobook/IE60Fixes.css";</style><![endif]-->
+      <!--[if IE 7]><style type="text/css">@import "http://files.wikitravel.org/mw/skins/monobook/IE70Fixes.css?1";</style><![endif]-->
+      <!--[if lt IE 7]><script type="text/javascript" src="http://files.wikitravel.org/mw/skins/common/IEFixes.js"></script>
+      <meta http-equiv="imagetoolbar" content="no" /><![endif]-->
+      <script type= "text/javascript">/*<![CDATA[*/
+var skin = null;
+var stylepath = "http://files.wikitravel.org/mw/skins";
+var wgArticlePath = "/en/$1";
+var wgScriptPath = "/wiki/en";
+var wgScript = "/wiki/en/index.php";
+var wgServer = "http://wikitravel.org";
+var wgCanonicalNamespace = "Image";
+var wgCanonicalSpecialPageName = false;
+var wgNamespaceNumber = 6;
+var wgPageName = "Image:KeralaRegions.png";
+var wgTitle = "KeralaRegions.png";
+var wgAction = "view";
+var wgRestrictionEdit = [];
+var wgRestrictionMove = [];
+var wgArticleId = 0;
+var wgIsArticle = true;
+var wgUserGroups = null;
+var wgContentLanguage = "en";
+var wgBreakFrames = false;
+var wgCurRevisionId = false;
+/*]]>*/</script>
+      <script type="text/javascript" src="http://files.wikitravel.org/mw/skins/common/wikibits.js?0.1"><!-- wikibits js --></script>
+      <script type="text/javascript" src="http://files.wikitravel.org/mw/skins/common/wikitravel.js?0.2"><!-- wikitravel js --></script>
+      <style type="text/css">/*<![CDATA[*/
+@import "/wiki/en/index.php?title=MediaWiki:Common.css&usemsgcache=yes&action=raw&ctype=text/css&smaxage=2678400";
+@import "/wiki/en/index.php?title=MediaWiki:Wikitravel.css&usemsgcache=yes&action=raw&ctype=text/css&smaxage=2678400";
+/*]]>*/</style>
+     <script type="text/javascript" src="http://files.wikitravel.org/mw/skins/common/username.js"></script>
+      <script type="text/javascript">
+addOnloadHook(function () {
+    set_page_title('Image:KeralaRegions.png');
+    set_script_path('/wiki/en/index.php');
+    set_db_name('wikitravel_org_-_en');
+    set_admins('3,4,148,176,206,361,389,404,551,741,764,1111,1288,1399,1549,2493,2751,2752,3005,3115,3703,3934,3960,4164,4844,5100,6301,7666,8400,9491,9678,10419,11186,11321,12731,12794,13268,20554,24487,26409,26602,28914,31278,36416,41371');
+    set_specialns('Special');
+  set_message_map({ "watch" : "Watch", "move" : "Move", "delete" : "Delete", "protect" : "Protect", "unprotect" : "unprotect" });
+  set_new_msg_path('/upload/en/newmsg');
+    set_protected(false); // it's a bool, so no quotes
+    setup_user_name('User', 'User_talk', 'Log out');
+    build_content_action_urls();
+});
+</script>
+    <!-- Head Scripts -->
+    		<script type="text/javascript" src="http://files.wikitravel.org/mw/skins/common/mootools-1.2-core-yc.js"></script>		<script type="text/javascript" src="http://files.wikitravel.org/mw/skins/common/mootools-1.2-more-yc.js"></script>		<script type="text/javascript" src="http://files.wikitravel.org/mw/skins/common/ListingEditor.js"></script>		<script type="text/javascript" src="http://files.wikitravel.org/mw/skins/common/ajax.js"></script>		<script type="text/javascript" src="http://files.wikitravel.org/mw/skins/common/ajax.js?42b.1"></script>
+
+
+  </head>
+  <body    class="ns-6 ltr">
+  
+  <div id="globalWrapper">
+<table class='columnTable' width='100%'><tr><td class='columnTable'><div id='column-content'>      <div id="content" style="border-right: 1px solid #aaa;">
+        <a name="top" id="top"></a>
+        <div id="siteNotice"><div align="right" style="padding-top: 3px"><i>"Wikitravel has a speed and convenience the books' publishers can only envy." <a href="http://www.time.com/time/magazine/article/0,9171,2019304,00.html" class="external text" title="http://www.time.com/time/magazine/article/0,9171,2019304,00.html" rel="nofollow">&mdash; <b>Time Europe</b></a></i></div>
+</div>        <h1 class="firstHeading">Image:KeralaRegions.png</h1>
+        <div id="bodyContent">
+          <h3 id="siteSub">From Wikitravel</h3>
+          <div id="contentSub"></div>
+        
+                    <div id="jump-to-nav">Jump to: <a href="#column-one">navigation</a>, <a href="#searchInput">search</a></div>          
+                    
+          <!-- start content -->
+          <ul id="filetoc">
+			<li><a href="#file">Image</a></li>
+			<li><a href="#filehistory">File history</a></li>
+			<li><a href="#filelinks">Links</a></li>
+		</ul><div class="fullImageLink" id="file"><a href="http://wikitravel.org/upload/shared//8/86/KeralaRegions.png"><img alt="Image:KeralaRegions.png" src="http://wikitravel.org/upload/shared//thumb/8/86/KeralaRegions.png/336px-KeralaRegions.png" width="336" height="599" border="0" /></a><br /><small>Size of this preview: 336 × 599 pixels</small><br /><a href="http://wikitravel.org/upload/shared//8/86/KeralaRegions.png">Full resolution</a> (1448 × 2582 pixel, file size: 747 KB, MIME type: image/png)</div><div class='sharedUploadNotice'><div style="clear:both;"></div>
+<table align="center" border="0" cellpadding="2" cellspacing="2" style="border: solid #aaa 1px; background: #f9f9f9; font-size: 90%; margin: .2em auto .2em auto;">
+
+<tr>
+<td>This is a file from the <a href="http://wikitravel.org/shared/Main_Page" class="extiw" title="shared:Main_Page">Wikitravel Shared image repository</a>. See its <b><a href="http://wikitravel.org/shared/Image:KeralaRegions.png" class="extiw" title="shared:Image:KeralaRegions.png">file description page</a></b> for more information and licensing.
+</td></tr></table>
+ <p>Please see the <a href="http://wikitravel.org/shared/Image:KeralaRegions.png" class="external " title="http://wikitravel.org/shared/Image:KeralaRegions.png" rel="nofollow">file description page</a> for further information.
+</p></div><h2 id="filehistory">File history</h2><p>Click on a date/time to view the file as it appeared at that time.
+</p><table class="filehistory">
+<tr><td></td><th>Date/Time</th><th>User</th><th>Dimensions</th><th class="mw-imagepage-filesize">File size</th><th>Comment</th></tr>
+<tr><td>(current)</td><td><a href="http://wikitravel.org/upload/shared//8/86/KeralaRegions.png">16:19, 13 March 2010</a></td><td>ClausHansen</td><td>1448×2582</td><td class="mw-imagepage-filesize">747 KB</td><td></td></tr>
+<tr><td></td><td><a href="http://wikitravel.org/upload/shared//archive/8/86/20100313161515%21KeralaRegions.png">15:07, 13 March 2010</a></td><td>ClausHansen</td><td>1353×2472</td><td class="mw-imagepage-filesize">623 KB</td><td>{{Imagecredit|credit=<a href="/en/User:ClausHansen" title="User:ClausHansen">User:ClausHansen</a>, [http://en.wikipedia.org/wiki/User:Saravask], [http://www.demis.nl/home/pages/wms/demiswms.htm]|captureDate=13 March 2010|location=India|source=<a href="/wiki/en/index.php?title=Image:KeralaRegions.svg&amp;action=edit" class="new" title="Image:KeralaRegions.svg">Image:KeralaRegions.svg</a>|caption=Map of Kerala|description=Map of</td></tr>
+</table>
+<h2 id="filelinks">Links</h2>
+<p>The following pages link to this file:</p>
+<ul><li><a href="/en/Kerala" title="Kerala">Kerala</a></li>
+</ul>
+<div class="printfooter">
+Retrieved from "<a href="http://wikitravel.org/en/Image:KeralaRegions.png">http://wikitravel.org/en/Image:KeralaRegions.png</a>"</div>
+                    <!-- end content -->
+          <div class="visualClear"></div>
+        </div>
+      </div>
+</div>    <div id="column-one">
+      
+      <div id="p-cactions" class="portlet">
+        <h5>Views</h5>
+        <ul>
+                      <li id="ca-nstab-image" class="selected new">
+                <a href="/wiki/en/index.php?title=Image:KeralaRegions.png&amp;action=edit">File</a>
+              </li>
+                      <li id="ca-talk" class="new">
+                <a href="/wiki/en/index.php?title=Image_talk:KeralaRegions.png&amp;action=edit">Discussion</a>
+              </li>
+                      <li id="ca-edit">
+                <a href="/wiki/en/index.php?title=Image:KeralaRegions.png&amp;action=edit">Edit</a>
+              </li>
+                  </ul>
+      </div>
+      
+      <div class="portlet" id="p-personal">
+        <h5>Personal tools</h5>
+        <div class="pBody">
+          <ul>
+                          <li id="pt-userpage">
+                <a href="/en/Special:Mypage">My page</a>
+                              </li>
+                          <li id="pt-mytalk">
+                <a href="/en/Special:Mytalkpage">My talk</a>
+                &nbsp;<img id="pt-newmsg" width="12" height="12" alt="messages" src="http://files.wikitravel.org/mw/skins/common/images/blank.gif" />              </li>
+                          <li id="pt-preferences">
+                <a href="/en/Special:Preferences">Preferences</a>
+                              </li>
+                          <li id="pt-watchlist">
+                <a href="/en/Special:Watchlist">My watchlist</a>
+                              </li>
+                          <li id="pt-mycontris">
+                <a href="/en/Special:Mycontributions">My contributions</a>
+                              </li>
+                          <li id="pt-logout">
+                <a href="/en/Special:Userloginout">Log in / create account</a>
+                              </li>
+                      </ul>
+        </div>
+      </div>
+      
+      <div class="portlet" id="p-logo">
+        <a style="background-image: url(http://files.wikitravel.org/wikitravel.png);" href="/en/Main_Page" title="Main Page"></a>
+      </div>
+      
+      <script type="text/javascript"> if (window.isMSIE55) fixalpha(); </script>
+            <div class='portlet' id='p-navigation'>
+        <h5>Navigation</h5>
+        <div class='pBody'>
+          <ul>
+                        <li id="n-mainpage">
+                <a href="/en/Main_Page">Main Page</a>
+            </li>
+                        <li id="n-projectpage">
+                <a href="/en/Wikitravel:Project">Project Home</a>
+            </li>
+                        <li id="n-Travellers'-Pub">
+                <a href="/en/Wikitravel:Travellers%27_pub">Travellers' Pub</a>
+            </li>
+                        <li id="n-recentchanges">
+                <a href="/en/Special:Recentchanges">Recent changes</a>
+            </li>
+                        <li id="n-randompage">
+                <a href="/en/Special:Random">Random page</a>
+            </li>
+                        <li id="n-help">
+                <a href="/en/Wikitravel:Help">Help</a>
+            </li>
+                        <li id="n-Uploads-&amp;-bug-reports">
+                <a href="http://wikitravel.org/shared/Main_Page">Uploads &amp; bug reports</a>
+            </li>
+                        <li id="n-extrapage">
+                <a href="http://extra.wikitravel.org">Wikitravel Extra</a>
+            </li>
+                      </ul>
+        </div>
+      </div>
+            <div class='portlet' id='p-feeds'>
+        <h5>feeds</h5>
+        <div class='pBody'>
+          <ul>
+                        <li id="n-newsfeedtitle">
+                <a href="http://wikitravel.org/rss/english.rss">Travel news and trivia</a>
+            </li>
+                      </ul>
+        </div>
+      </div>
+        
+      <div id="p-search" class="portlet">
+        <h5><label for="searchInput">Search</label></h5>
+        <div id="searchBody" class="pBody">
+        
+          <form action="/en/Special:Search" id="searchform">
+            <div>
+              <input id="searchInput" name="search" type="text" accesskey="f" value="" />
+              <input type='submit' name="go" class="searchButton" id="searchGoButton" value="Go" />&nbsp;
+              <input type='submit' name="fulltext" class="searchButton" value="Search" />
+            </div>
+          </form>
+        </div>
+      </div>
+
+
+            
+      <div class="portlet" id="p-tb">
+        <h5>Toolbox</h5>
+        <div class="pBody">
+          <ul>
+                          <li id="t-whatlinkshere"><a href="/en/Special:Whatlinkshere/Image:KeralaRegions.png">What links here</a></li>
+            <li id="t-upload"><a href="/en/Special:Upload">Don't upload file</a></li>
+              <li id="t-specialpages"><a href="/en/Special:Specialpages">Special pages</a></li>
+                            <li id="t-print"><a href="/wiki/en/index.php?title=Image:KeralaRegions.png&amp;printable=yes">Printable version</a></li>          </ul>
+        </div>
+      </div>
+      
+        
+            
+          </div>
+    <!-- end of the left (by default at least) column -->
+</td><td id='adTableCell' class='columnTable ad'>      <div id="ads">
+                
+        <div id="p-dart" class="portlet">
+          <div class="pBody">
+                <script language="JavaScript" type="text/javascript">
+    /*<![CDATA[*/ 
+    if(typeof ord == 'undefined') {
+      ord=Math.random()*10000000000000000;
+    }
+
+    if(!are_ads_hidden('wikitravel_org_-_en')) {
+      var adtype = "member";
+      if(!wtIsLoggedIn('wikitravel_org_-_en')) {
+        adtype = "nonmember";
+      }
+      
+      document.write(
+        '<script language="JavaScript" src="http://ad.doubleclick.net/adj/wikitrav/' + 
+        adtype + ';kw=top;language=en;tile=1;dcopt=ist;sz=160x600;tower=wide;ord=' + ord + '?" type="text/javascript"><\/scr' + 'ipt>'
+      );
+    }
+    /*]]>*/
+    </script>
+    <noscript>
+      <a href="http://ad.doubleclick.net/jump/wikitrav/member;kw=top;language=en;tile=1;sz=160x600;tower=wide;ord=123456789?" target="_blank"><img src="http://ad.doubleclick.net/ad/wikitrav/member;kw=top;language=en;tile=1;sz=160x600;ord=123456789?" width="120" height="600" border="0" alt="" /></a>
+    </noscript>
+	    	<style type="text/css" media="screen">@import "http://static.ibsrv.net/ads/wikitravel/css/blockads-160x600b.css";</style>
+	<!-- START VANILLA ADS -->
+	<div id="vanilla_ads">
+		<div><!-- class vanilla_ads_white for white bg -->
+		        <script type='text/javascript'>
+		                //<!--
+		                AFC_RENDER_CLEAN=true;
+				AFC_RENDER_MAX=1;
+        		        google_ad_type = "text";
+        		        ad_dimensions = '160x600';
+        		        google_adtest = 'off';
+        		        google_ad_client = 'ca-ib_travel_sede_3';
+        		        google_ad_channel = 'WikiTravel_120x600_NonEng_Top,WikiTravel_Domain';
+        		        google_hints = '';
+        		        ad_border = '6e84a9';
+        		        ad_title = 'FFFFFF';
+        		        ad_bg = '6e84a9';
+        		        ad_text = 'FFFFFF';
+        		        ad_url = 'FFFFFF';
+        		        MWSC = true;
+        		        // -->
+        		</script>
+        		<script type='text/javascript' src='http://static.internetbrands.com/partners/afc/afc_glue_beta.js'></script>
+        		<script type='text/javascript' src='http://pagead2.googlesyndication.com/pagead/show_ads.js'></script>
+		</div>
+	</div>
+	<!-- END VANILLA ADS -->
+	          </div>
+        </div>
+        <div id='hotelAdSpacer' style=''></div><div id='hotelAdBlock' class='portlet'><div class='pBody'>    <script language="JavaScript" type="text/javascript">
+    /*<![CDATA[*/ 
+    if(typeof ord == 'undefined') {
+      ord=Math.random()*10000000000000000;
+    }
+
+    if(!are_ads_hidden('wikitravel_org_-_en')) {
+      var adtype = "member";
+      if(!wtIsLoggedIn('wikitravel_org_-_en')) {
+        adtype = "nonmember";
+      }
+      
+      document.write(
+        '<script language="JavaScript" src="http://ad.doubleclick.net/adj/wikitrav/' + 
+        adtype + ';kw=bottom;language=en;tile=2;dcopt=ist;sz=160x600;tower=wide;ord=' + ord + '?" type="text/javascript"><\/scr' + 'ipt>'
+      );
+    }
+    /*]]>*/
+    </script>
+    <noscript>
+      <a href="http://ad.doubleclick.net/jump/wikitrav/member;kw=bottom;language=en;tile=2;sz=160x600;tower=wide;ord=123456789?" target="_blank"><img src="http://ad.doubleclick.net/ad/wikitrav/member;kw=bottom;language=en;tile=2;sz=160x600;ord=123456789?" width="120" height="600" border="0" alt="" /></a>
+    </noscript>
+</div></div>	      </div>
+</td></tr></table><script type='text/javascript'>handleAds('wikitravel_org_-_en');</script>      <div class="visualClear"></div>
+      <div id="footer">
+        <div id="f-poweredbyico"><a href="http://www.mediawiki.org/"><img src="http://files.wikitravel.org/mw/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" /></a></div>
+        <div id="f-copyrightico"><a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/"><img src="http://creativecommons.org/images/public/somerights.png" alt='Creative Commons Attribution-ShareAlike 3.0' /></a></div>
+      <ul id="f-list">
+<li id='privacy'><a href="/en/Wikitravel:Privacy_policy" title="Wikitravel:Privacy policy">Privacy policy</a></li><li id='about'><a href="/en/Wikitravel:About" title="Wikitravel:About">About Wikitravel</a></li><li id='disclaimer'><a href="/en/Wikitravel:Terms_of_use" title="Wikitravel:Terms of use">Terms of use</a></li>      </ul>
+    </div>
+  <script type="text/javascript"> if (window.runOnloadHook) runOnloadHook();</script>
+</div>
+<!-- Served in 0.651 secs. --><script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+  _uacct = "UA-219634-5";
+  urchinTracker();
+</script>
+</body></html>

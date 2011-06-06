@@ -1,0 +1,12 @@
+<?php
+
+ 
+ define("HOST_NAME","192.168.169.60");
+ define("DB_NAME","mykerala");
+ define("USERNAME","sapplica");
+ define("PASSWORD","s@pplic@2008#");
+ 
+ define("TBL_IMAGES","my_images");
+ define("TBL_ADMIN","my_admin");
+ 
+?>

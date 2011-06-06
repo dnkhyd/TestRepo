@@ -1,0 +1,49 @@
+@charset "utf-8";
+/* CSS Document */
+body{margin:0px; padding:0px; font-size:12px; font-family:"Times New Roman", Times, serif; background:#556544; }
+.logo{background:url(http://dev.sapplica.com/mykeralaprod/admin/images/logo.png) no-repeat left 22px; width:254px; height:115px; display:block;}
+.wht_txt{ font-family:Arial, Helvetica, sans-serif; font-size:12px; color:#FFFFFF; text-decoration:none; line-height:25px;}
+a.wht_txt{ font-family:Arial, Helvetica, sans-serif; font-size:12px; color:#FFFFFF; text-decoration:none; line-height:25px;}
+a:hover.wht_txt{ font-family:Arial, Helvetica, sans-serif; font-size:12px; color:#b0c931; text-decoration:underline; line-height:25px;}
+.blu_txt{font-family:"Times New Roman", Times, serif; font-size:13px; color:#3b5998; text-decoration:none;}
+.gry_txt{font-family:"Times New Roman", Times, serif; font-size:18px; color:#333333; text-decoration:none;}
+.gry_txt_sm{font-family:"Times New Roman", Times, serif; font-size:11px; color:#FFFFFF; text-decoration:none;}
+.nav_nor{padding: 0px 2px 0px 2px; margin-right: 2px;	border: 1px solid #2982c7;	background-color:#ccecfc;	font-family:"Courier New", Courier, monospace;	font-size:12px;	text-decoration: none;	color: #1879c3;}
+.nav_sel{padding: 0px 2px 0px 2px; margin-right: 2px;	border: 1px solid #99bf29;	background-color:#c6d23d;	font-family:"Courier New", Courier, monospace;	font-size:12px;	text-decoration: none;	color: #3d7d15;}
+.class_1{ background-color:#333333;}
+.class_2{ background-color:#996600;}
+.class_3{ background-color:#CCFF00;}
+/*sprite image*/
+.mykr_img{background:url(http://dev.sapplica.com/mykeralaprod/admin/images/mykerala_sprite.png) no-repeat left top;}
+.logo{background-position:12px 0px; background-repeat:no-repeat; width:320px; height:100px;}
+.menu_left{background-position:0px -83px; background-repeat:no-repeat; width:35px; height:150px; float:left;}
+.menu_mid{background-position:0px -237px; background-repeat:repeat-x; width:880px; height:150px; float:left;}
+.menu_right{background-position:-252px -384px; background-repeat:no-repeat; width:60px; height:150px; float:left;}
+.separtr{background-position:-2px -555px; background-repeat:no-repeat; width:4px; height:24px; float:left;}
+/*.ftr_bg{background-position:0px -596px; background-repeat:repeat-x; height:105px; bottom:-1px; clear:both; position:absolute; margin:0px; width:100%;}*/
+.ftr_bg{background-position:0px -596px; background-repeat:repeat-x; height:105px; vertical-align:baseline;overflow: visible; margin:0px; width:100%;}
+.fb_icon{background-position:-50px -564px; background-repeat:no-repeat; width:20px; height:20px; display:block;}
+.twit_icon{background-position:-75px -564px; background-repeat:no-repeat; width:20px; height:20px; display:block;}
+.sub_btn{background-position:-114px -548px; background-repeat:no-repeat; width:124px; height:43px; display:block; border:0px;}
+.sign_btn{background-position:0px -708px; background-repeat:no-repeat; width:123px; height:42px; display:block; border:0px;}
+
+.con_1_img{background:url(../images/con_1_img.png) no-repeat left top;}
+.con_1_top{background-position:0px 0px; background-repeat:no-repeat; width:503px; height:37px;}
+.con_1_mid{background-position:-592px 0px; background-repeat:repeat-y; width:503px;}
+.con_1_bot{background-position:-1169px 0px; background-repeat:no-repeat; width:503px; height:37px;}
+/*-------sprite end------*/
+.mainmenu{ 	}
+.mainmenu ul{ margin-top:80px; padding:0px; list-style-type:none; }
+.mainmenu li{ margin-left:40px; padding:3px; list-style-type:none; float:left;}
+a.norml{ font-family:"Times New Roman", Times, serif; font-size:20px; font-weight:bold; color:#858585; text-decoration:none;}
+a:hover.norml{ font-family:"Times New Roman", Times, serif; font-size:20px; font-weight:bold; color:#343434; text-decoration:none;}
+.selectd{ font-family:"Times New Roman", Times, serif; font-size:20px; font-weight:bold; color:#343434; text-decoration:none;}
+.con_bg_top{background:url(http://dev.sapplica.com/mykeralaprod/admin/images/con_bg_top.png) no-repeat; width:958px; height:32px;}
+.con_bg_mid{background:url(http://dev.sapplica.com/mykeralaprod/admin/images/con_bg_mid.png) repeat-y; width:958px;}
+.con_bg_bottom{background:url(http://dev.sapplica.com/mykeralaprod/admin/images/con_bg_bottom.png) 0px -10px no-repeat; width:958px; height:32px;}
+
+.slideshow { height: 84px; width: 724px; margin: auto ;}
+.slideshow img { padding: 0px;  }
+.myDragClass td {background-color:#556544;font-family:"Times New Roman", Times, serif; font-size:13px; color:#ffffff; text-decoration:none;}
+.brdr_div{border:5px solid #556544;}
+
